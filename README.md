@@ -1,31 +1,31 @@
 # 💡 AI Coding Tutor
 
-An interactive web app that helps learners understand and improve Python code using Generative AI.
+An interactive web app that helps learners understand, debug, and improve Python code using **Generative AI**.
+
+This project demonstrates how Large Language Models (LLMs) can act as intelligent tutors for programming education — explaining code line by line, finding bugs, and suggesting improvements.  
+It was created as part of my research interest in **AI-assisted learning and computing education**.
+
+---
 
 ## 🧠 Features
-- Paste any Python code and get **line-by-line explanations**.
-- Detect and fix **bugs and errors** automatically.
-- Suggest **code improvements** for better readability and performance.
-- Simple **web interface** built with Streamlit.
+✅ Paste any Python code and get **line-by-line explanations**  
+✅ Detect and fix **syntax and logic errors** automatically  
+✅ Suggest **improvements for performance and readability**  
+✅ Simple, interactive **web interface** built with Streamlit  
 
-## 🛠️ Technologies
+---
+
+## 🛠️ Technologies Used
 - **Python**
 - **Streamlit**
-- **OpenAI GPT API**
+- **OpenAI GPT API (GPT-4o-mini model)**
+- **HTML/CSS** for UI structure
 
-## 🚀 Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/ai-coding-tutor.git
-   cd ai-coding-tutor
+---
 
+## 🚀 How to Run Locally
 
-
-## 🌐 **Step 2: Initialize a Git Repository**
-In the terminal (inside your folder):
-
+### 1️⃣ Clone this repository
 ```bash
-git init
-git add .
-git commit -m "Initial commit - AI Coding Tutor app"
-
+git clone https://github.com/<your-username>/ai-coding-tutor.git
+cd ai-coding-tutor
